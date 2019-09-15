@@ -2,6 +2,5 @@
   puts "Wingardium Leviosa"
 end
 
-
-
+7.times
 
